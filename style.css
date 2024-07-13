@@ -6,7 +6,7 @@ body {
 @media(min-width: 375px){
 
     .container {
-        margin: 80px auto;
+        margin: 100px auto;
         width: 300px;
         border: 1px solid lightgray;
         padding: 15px;
@@ -37,7 +37,8 @@ body {
     }
 }
 
-@media(max-width: 1440px) {
+@media(max-width: 1440px){
+
     .container {
         margin: 80px auto;
         width: 300px;
